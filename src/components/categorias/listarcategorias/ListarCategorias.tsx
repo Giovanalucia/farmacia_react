@@ -1,4 +1,4 @@
-"import CardCategorias from '../cardcategorias/CardCategorias'
+import CardCategorias from '../cardcategorias/CardCategorias'
 
 function ListarCategorias() {
 	
