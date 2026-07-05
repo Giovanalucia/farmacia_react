@@ -134,21 +134,8 @@ src/
 <br />
 
 
-## 8. Contribuição
+## 8. Contato
 
-Contribuições são bem-vindas!
-
-Se você encontrou algum problema ou deseja propor melhorias:
-
-- Abra uma **issue**
-- Envie um **pull request**
-- Compartilhe com colegas aprendizes!
-
-<br />
-
-
-## 9. Contato
-
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Giovana**](https://github.com/Giovanalucia)
 Dúvidas ou sugestões? Entre em contato pelo GitHub ou abra uma issue no repositório.
 
